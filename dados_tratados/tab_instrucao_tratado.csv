@@ -1,0 +1,28 @@
+Estado,Total,Sem instrução e fundamental incompleto,Fundamental completo e médio incompleto,Médio completo e superior incompleto,Superior completo,Região
+Rondônia,9,8.5,8.4,9.8,9.5,Norte
+Acre,6,6.2,3.9,5.9,7.5,Norte
+Amazonas,4.2,4.1,5.9,3.2,5.2,Norte
+Roraima,5.1,4.4,4.1,4.4,8.3,Norte
+Pará,4.1,4.6,3.2,3.8,5.2,Norte
+Amapá,4.5,3.1,1.7,5.2,8.4,Norte
+Tocantins,6.6,6.4,10.1,4.4,9.6,Norte
+Maranhão,5.4,6,5.2,4.3,6.8,Nordeste
+Piauí,6.9,6,5.2,8.3,9,Nordeste
+Ceará,8.1,9.1,6.1,7.1,9.8,Nordeste
+Rio Grande do Norte,8.5,7.7,11,8,9.7,Nordeste
+Paraíba,7.6,8.1,8.2,4.9,11.1,Nordeste
+Pernambuco,6.8,6.7,4.1,6.6,10.2,Nordeste
+Alagoas,6.2,7.1,7.2,4.4,6,Nordeste
+Sergipe,8.5,8.1,6.2,8.8,12.9,Nordeste
+Bahia,6.3,6.7,3.4,6.1,9.2,Nordeste
+Minas Gerais,13.7,15.8,11.8,12.2,13.6,Sudeste
+Espírito Santo,11.3,12.5,10.7,10.1,11.7,Sudeste
+Rio de Janeiro,8.1,8.9,6.1,7.7,9.4,Sudeste
+São Paulo,11.8,12,13.6,9.7,14.1,Sudeste
+Paraná,13.9,17.5,11.9,10.7,14.8,Sul
+Santa Catarina,13.1,14.9,12.8,12.5,11.7,Sul
+Rio Grande do Sul,17.9,22.3,14.5,14.7,18.4,Sul
+Mato Grosso do Sul,10.1,10,10,9,12.4,Centro-Oeste
+Mato Grosso,8.2,7.4,9.7,6.9,10.9,Centro-Oeste
+Goiás,12,13.4,5.4,12.9,14.2,Centro-Oeste
+Distrito Federal,9.4,8.6,15.6,7.5,10.2,Centro-Oeste
