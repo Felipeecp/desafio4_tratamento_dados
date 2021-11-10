@@ -1,28 +1,28 @@
 Estado,Diagnostico Depressão Total,Masculino,Feminino,Região
-Rondônia,113.409,31.093,82.316,Norte
-Acre,35.466,7.137,28.329,Norte
-Amazonas,111.661,37.248,74.414,Norte
-Roraima,18.206,4.967,13.239,Norte
-Pará,245.494,71.672,173.822,Norte
-Amapá,25.358,5.477,19.881,Norte
-Tocantins,74.126,14.805,59.32,Norte
-Maranhão,262.958,54.844,208.114,Nordeste
-Piauí,168.855,39.643,129.212,Nordeste
-Ceará,554.014,127.94,426.074,Nordeste
-Rio Grande do Norte,222.572,45.603,176.97,Nordeste
-Paraíba,225.991,54.444,171.546,Nordeste
-Pernambuco,480.517,80.242,400.275,Nordeste
-Alagoas,149.611,36.211,113.4,Nordeste
-Sergipe,145.456,32.332,113.124,Nordeste
-Bahia,707.06,116.206,590.854,Nordeste
-Minas Gerais,2269.316,619.966,1649.35,Sudeste
-Espírito Santo,342.397,82.188,260.209,Sudeste
-Rio de Janeiro,1108.808,286.37,822.437,Sudeste
-São Paulo,4219.386,954.323,3265.062,Sudeste
-Paraná,1221.622,269.73,951.892,Sul
-Santa Catarina,741.013,151.769,589.244,Sul
-Rio Grande do Sul,1594.779,411.998,1182.781,Sul
-Mato Grosso do Sul,199.456,39.726,159.73,Centro-Oeste
-Mato Grosso,205.435,39.968,165.467,Centro-Oeste
-Goiás,631.835,147.573,484.262,Centro-Oeste
-Distrito Federal,217.874,50.044,167.83,Centro-Oeste
+Rondônia,9,5.1,12.8,Norte
+Acre,6,2.5,9.3,Norte
+Amazonas,4.2,2.9,5.4,Norte
+Roraima,5.1,2.8,7.3,Norte
+Pará,4.1,2.5,5.6,Norte
+Amapá,4.5,2,6.9,Norte
+Tocantins,6.6,2.7,10.4,Norte
+Maranhão,5.4,2.4,8.2,Nordeste
+Piauí,6.9,3.4,10,Nordeste
+Ceará,8.1,4,11.6,Nordeste
+Rio Grande do Norte,8.5,3.8,12.6,Nordeste
+Paraíba,7.6,3.9,10.7,Nordeste
+Pernambuco,6.8,2.5,10.2,Nordeste
+Alagoas,6.2,3.3,8.7,Nordeste
+Sergipe,8.5,4,12.5,Nordeste
+Bahia,6.3,2.2,10,Nordeste
+Minas Gerais,13.7,7.9,18.8,Sudeste
+Espírito Santo,11.3,5.7,16.3,Sudeste
+Rio de Janeiro,8.1,4.7,10.8,Sudeste
+São Paulo,11.8,5.7,17.2,Sudeste
+Paraná,13.9,6.5,20.5,Sul
+Santa Catarina,13.1,5.6,20.2,Sul
+Rio Grande do Sul,17.9,9.8,25,Sul
+Mato Grosso do Sul,10.1,4.3,15.1,Centro-Oeste
+Mato Grosso,8.2,3.3,12.7,Centro-Oeste
+Goiás,12,5.9,17.7,Centro-Oeste
+Distrito Federal,9.4,4.7,13.5,Centro-Oeste

@@ -1,28 +1,28 @@
 Estado,Total,Branca,Preta,Parda,Região
-Rondônia,113.409,42.532,11.167,57.151,Norte
-Acre,35.466,5.686,2.477,26.977,Norte
-Amazonas,111.661,15.776,10.681,79.283,Norte
-Roraima,18.206,5.442,1.041,10.247,Norte
-Pará,245.494,50.539,32.673,160.231,Norte
-Amapá,25.358,3.937,1.476,19.683,Norte
-Tocantins,74.126,17.825,10.278,45.629,Norte
-Maranhão,262.958,50.111,39.893,171.48,Nordeste
-Piauí,168.855,36.041,24.779,106.828,Nordeste
-Ceará,554.014,147.58,58.421,342.707,Nordeste
-Rio Grande do Norte,222.572,79.346,19.924,115.714,Nordeste
-Paraíba,225.991,54.489,28.497,140.632,Nordeste
-Pernambuco,480.517,201.359,36.591,231.893,Nordeste
-Alagoas,149.611,38.482,12.676,94.796,Nordeste
-Sergipe,145.456,38.116,14.297,92.687,Nordeste
-Bahia,707.06,156.363,160.053,382.742,Nordeste
-Minas Gerais,2269.316,1013.276,304.04,941.721,Sudeste
-Espírito Santo,342.397,132.727,25.677,178.583,Sudeste
-Rio de Janeiro,1108.808,607.859,109.728,379.414,Sudeste
-São Paulo,4219.386,2716.67,294.915,1149.041,Sudeste
-Paraná,1221.622,792.755,78.707,345.335,Sul
-Santa Catarina,741.013,609.22,18.784,99.852,Sul
-Rio Grande do Sul,1594.779,1270.961,115.787,208.031,Sul
-Mato Grosso do Sul,199.456,90.614,16.136,88.404,Centro-Oeste
-Mato Grosso,205.435,71.938,17.247,115.922,Centro-Oeste
-Goiás,631.835,226.261,38.458,349.319,Centro-Oeste
-Distrito Federal,217.874,101.766,14.205,96.177,Centro-Oeste
+Rondônia,9,11.7,8.3,7.8,Norte
+Acre,6,5.7,4.5,6.3,Norte
+Amazonas,4.2,3.6,8,3.9,Norte
+Roraima,5.1,7.4,2.9,4.5,Norte
+Pará,4.1,5,5.2,3.8,Norte
+Amapá,4.5,4.9,1.7,5.1,Norte
+Tocantins,6.6,7.8,5.1,6.7,Norte
+Maranhão,5.4,5.2,5.2,5.6,Nordeste
+Piauí,6.9,7,8.2,6.6,Nordeste
+Ceará,8.1,7.9,10,7.9,Nordeste
+Rio Grande do Norte,8.5,8.3,8.7,8.2,Nordeste
+Paraíba,7.6,5.7,9.6,8.3,Nordeste
+Pernambuco,6.8,9.1,6.3,5.5,Nordeste
+Alagoas,6.2,6.6,7,5.9,Nordeste
+Sergipe,8.5,10.4,6.7,8.4,Nordeste
+Bahia,6.3,8.1,5.5,6.2,Nordeste
+Minas Gerais,13.7,14.5,12.5,13.4,Sudeste
+Espírito Santo,11.3,11.1,6.9,12.5,Sudeste
+Rio de Janeiro,8.1,9.7,4.7,7.7,Sudeste
+São Paulo,11.8,13.2,9.4,10.2,Sudeste
+Paraná,13.9,14.4,17.5,12.9,Sul
+Santa Catarina,13.1,13.5,10.1,11.6,Sul
+Rio Grande do Sul,17.9,18.4,16.6,16.3,Sul
+Mato Grosso do Sul,10.1,10.4,10.5,9.9,Centro-Oeste
+Mato Grosso,8.2,9.8,6.4,7.8,Centro-Oeste
+Goiás,12,12.8,6.9,12.3,Centro-Oeste
+Distrito Federal,9.4,11.4,4.9,8.8,Centro-Oeste
